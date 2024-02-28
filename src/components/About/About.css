@@ -1,0 +1,13 @@
+.counter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    background-color:#545be8;
+    border-radius: 9px;
+    padding:20px;
+    font-size: 20px;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
